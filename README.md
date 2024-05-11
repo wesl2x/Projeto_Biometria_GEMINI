@@ -9,21 +9,21 @@ Nosso sistema integra a API do **GEMINI**, líder em reconhecimento facial, para
 
 ## Como Funciona:
 
-**Cadastro Simples:** Carregue uma imagem no cadastro. Nossa tecnologia GEMINI analisará seus traços faciais únicos.
-**Segurança Incomparável:** A biometria facial garante que somente você possa acessar sua conta, protegendo suas informações contra fraudes.
- **Eficiência sem Senhas:** Esqueça senhas complexas! Seu rosto é sua nova chave para um acesso rápido e fácil.
+**Cadastro Simples:** Carregue uma imagem no cadastro. Nossa tecnologia GEMINI analisará seus traços faciais únicos. <br />
+**Segurança Incomparável:** A biometria facial garante que somente você possa acessar sua conta, protegendo suas informações contra fraudes. <br />
+ **Eficiência sem Senhas:** Esqueça senhas complexas! Seu rosto é sua nova chave para um acesso rápido e fácil. <br />
 
 ## Benefícios:
 
-**Segurança Reforçada:** A biometria facial oferece um nível superior de proteção contra acessos não autorizados.
-**Experiência Simplificada:** Elimine a necessidade de lembrar senhas, agilizando o processo de login.
-**Tecnologia Confiável:** A API GEMINI oferece precisão e confiabilidade líderes de mercado em reconhecimento facial.
+**Segurança Reforçada:** A biometria facial oferece um nível superior de proteção contra acessos não autorizados. <br />
+**Experiência Simplificada:** Elimine a necessidade de lembrar senhas, agilizando o processo de login. <br />
+**Tecnologia Confiável:** A API GEMINI oferece precisão e confiabilidade líderes de mercado em reconhecimento facial. <br />
 
-## Biblotecas Utilizadas
+## Biblotecas Utilizadas 
 
-**OpenCV**
-**Django**
-**pillow**
-**google.generativeai**
+**OpenCV** <br />
+**Django** <br />
+**pillow** <br />
+**google.generativeai** <br />
 
 Junte-se a nós nesta nova era de segurança e conveniência com a tecnologia de biometria facial!
