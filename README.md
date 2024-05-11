@@ -19,5 +19,11 @@ Nosso sistema integra a API do **GEMINI**, líder em reconhecimento facial, para
 **Experiência Simplificada:** Elimine a necessidade de lembrar senhas, agilizando o processo de login.
 **Tecnologia Confiável:** A API GEMINI oferece precisão e confiabilidade líderes de mercado em reconhecimento facial.
 
+## Biblotecas Utilizadas
+
+**OpenCV**
+**Django**
+**pillow**
+**google.generativeai**
 
 Junte-se a nós nesta nova era de segurança e conveniência com a tecnologia de biometria facial!
