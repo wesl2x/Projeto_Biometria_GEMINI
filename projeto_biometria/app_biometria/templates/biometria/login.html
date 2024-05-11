@@ -1,0 +1,12 @@
+{% extends 'biometria/baseLogin.html' %}
+{% block conteudo %}
+<form action="{% url 'login_usuarios' %}" method="post" enctype="multipart/form-data">
+    {% csrf_token %}
+    <div style="text-align: center;" class="container">
+        <h1>Login</h1>
+        CPF <input name="cpf" class="form-control-sm" style="margin-top: 0.25rem !important;" type="text"> <br />
+        <button class="form-control-sm"  class="form-control-sm" style="margin-top: 0.25rem !important;">Logar</button> <br />
+    </div>
+</form>
+
+{% endblock %}
