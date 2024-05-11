@@ -11,7 +11,7 @@ Nosso sistema integra a API do **GEMINI**, líder em reconhecimento facial, para
 
 **Cadastro Simples:** Carregue uma imagem no cadastro. Nossa tecnologia GEMINI analisará seus traços faciais únicos. <br />
 **Segurança Incomparável:** A biometria facial garante que somente você possa acessar sua conta, protegendo suas informações contra fraudes. <br />
- **Eficiência sem Senhas:** Esqueça senhas complexas! Seu rosto é sua nova chave para um acesso rápido e fácil. <br />
+ **Eficiência sem Senhas:** Esqueça senhas complexas! Seu CPF e seu rosto são suas novas chaves para um acesso rápido e fácil. <br />
 
 ## Benefícios:
 
